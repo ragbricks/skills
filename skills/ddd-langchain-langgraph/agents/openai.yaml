@@ -1,0 +1,4 @@
+interface:
+  display_name: "DDD LangChain LangGraph"
+  short_description: "Build DDD-first LangChain and LangGraph workflow code"
+  default_prompt: "Design and implement DDD-aligned LangChain and LangGraph workflows."
